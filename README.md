@@ -2,13 +2,13 @@
 
 Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面。
 
-![](https://i1.wp.com/s2.loli.net/2024/08/25/9Vn2yqjA6Y5KgL3.png)
+![](https://tuchuang.voooe.cn/images/2024/10/25/cover.png)
 
 ### Demo
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [预览](https://cover.ruom.top)
+- [预览](https://cover.chfychin.cn)
 
 ### 使用
 

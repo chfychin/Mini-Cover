@@ -12,11 +12,11 @@
     <span>敬业</span>
     <span>诚信</span>
     <span>友善</span>
-    <div class="icp">
-      <span>© 2024</span><a href="https://bsgun.cn" target="_blank">梦爱吃鱼</a>
+    <!--<div class="icp">
+      <span>© 2024</span><a href="https://bsgun.cn" target="_blank">chfychin</a>
       <a v-if="icpNumber" href="https://beian.miit.gov.cn/" target="_blank">{{ icpNumber }}</a>
       <button class="logo-btn" @click="toggleTips">小提示</button>
-    </div>
+    </div>-->
   </footer>
   <!-- 小提示弹窗 -->
   <div class="tips-popup" :class="{ 'show': showTipsPopup }">
