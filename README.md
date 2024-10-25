@@ -8,7 +8,7 @@ Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社�
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [预览](https://cover.chfychin.cn)
+- [预览](https://minicover.chfychin.cn)
 
 ### 使用
 
